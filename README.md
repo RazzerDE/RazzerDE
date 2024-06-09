@@ -14,7 +14,7 @@
 <br /><hr>
 
 ### 🔨 Dev Stack
-› In recent years, I’ve become acquainted with several programming languages, libraries, and frameworks, and I’ve grown to love some of them.
+› In recent years, I’ve learned several programming languages, libraries, and frameworks, and I’ve grown to love some of them.
 
 | 💻 **Technology** | 🏆 **Experience** | 🗯️ **Purpose of Use** |
 | - | - | - |
