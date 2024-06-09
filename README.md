@@ -9,7 +9,7 @@
 ### Hey there 👋
 
 › Since the age of 12, I’ve been passionate about programming. I’ve worked on a variety of projects, ranging from web development to automated scripts and chatbots & plugins. I thrive on automating tasks and creating applications that push boundaries and stand out. I’m often praised for cleverly implementing unique ideas while paying meticulous attention to detail. 💕
-<br /><br /><hr>
+<br /><hr>
 
 ### 🔨 Dev Stack
 › In recent years, I’ve become acquainted with several programming languages, libraries, and frameworks, and I’ve grown to love some of them.
@@ -34,6 +34,6 @@
 <br /><br /><hr>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RazzerDE&theme=omni&show_icons=true&hide_border=true&count_private=true" />&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RazzerDE&theme=omni&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RazzerDE&theme=jolly&show_icons=true&hide_border=true&count_private=true" alt="RazzerDE's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RazzerDE&theme=jolly&hide_border=true" alt="RazzerDE's GitHub Stats" />
 </p>
