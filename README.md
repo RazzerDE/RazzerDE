@@ -1,4 +1,6 @@
-![github-profile](https://github.com/RazzerDE/RazzerDE/assets/49283907/d44425c4-6696-40fa-a7db-23a7ddf581f0)
+<p align="center">
+  <img height="230" src="https://github.com/RazzerDE/RazzerDE/assets/49283907/d44425c4-6696-40fa-a7db-23a7ddf581f0" />
+</p>
 <hr>
 
 <p align='center'>
