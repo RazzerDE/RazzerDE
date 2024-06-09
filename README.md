@@ -32,8 +32,7 @@
   <img height="30" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;
 </p>
 <br /><br /><hr>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RazzerDE&theme=jolly&show_icons=true&hide_border=true&count_private=true" alt="RazzerDE's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RazzerDE&theme=jolly&hide_border=true" alt="RazzerDE's GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RazzerDE&theme=jolly&show_icons=true&hide_border=true&count_private=true" alt="RazzerDE's GitHub Stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RazzerDE&theme=jolly&hide_border=true&count_private=true" alt="RazzerDE's GitHub Stats" />
 </p>
