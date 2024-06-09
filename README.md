@@ -11,10 +11,7 @@
 ### Hey there 👋
 
 › Since the age of 12, I’ve been passionate about programming. I’ve worked on a variety of projects, ranging from web development to automated scripts and chatbots & plugins. I thrive on automating tasks and creating applications that push boundaries and stand out. I’m often praised for cleverly implementing unique ideas while paying meticulous attention to detail. 💕
-<br /><hr>
-
-### 🔨 Dev Stack
-› In recent years, I’ve learned several programming languages, libraries, and frameworks, and I’ve grown to love some of them.
+<br /><br />
 
 | 💻 **Technology** | 🏆 **Experience** | 🗯️ **Purpose of Use** |
 | - | - | - |
