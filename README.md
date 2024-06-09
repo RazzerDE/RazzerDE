@@ -1,12 +1,12 @@
 <p align="center">
   <img height="200" src="https://github.com/RazzerDE/RazzerDE/assets/49283907/d44425c4-6696-40fa-a7db-23a7ddf581f0" />
 </p>
-<hr>
-
 <p align='center'>
   <a href=""><img height="30" src="https://img.shields.io/badge/Coding_since-2015-6ab04c?style=for-the-badge&logo=intellijidea&logoSize=auto"></a>&nbsp;&nbsp;
   <a href="https://discord.gg/bl4cklist"><img height="30" src="https://img.shields.io/discord/616655040614236160?style=for-the-badge&logo=discord&label=Discord&color=%237289da" alt="discord server"></a>
 </p>
+<hr>
+
 
 ### Hey there 👋
 
@@ -33,7 +33,7 @@
   <img height="30" src="https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white" />&nbsp;&nbsp;
   <img height="30" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;
 </p>
-<br /><br /><hr>
+<hr>
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=RazzerDE&theme=jolly&show_icons=true&hide_border=true&count_private=true" alt="RazzerDE's GitHub Stats" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RazzerDE&theme=jolly&hide_border=true&count_private=true" alt="RazzerDE's GitHub Stats" />
