@@ -27,9 +27,14 @@
   <img height="30" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;&nbsp;
   <img height="30" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
   <img height="30" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />&nbsp;&nbsp;
-  <img height="30" src="https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white" />&nbsp;&nbsp;
+  <img height="30" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />&nbsp;&nbsp;
   <img height="30" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;
   <img height="30" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=fff" />&nbsp;&nbsp;
+</p>
+<p align="center">
+  <img height="30" src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" />&nbsp;&nbsp;
+  <img height="30" src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" />&nbsp;&nbsp;
+  <img height="30" src="https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white" />&nbsp;&nbsp;
 </p>
 <hr>
 <p align="center">
